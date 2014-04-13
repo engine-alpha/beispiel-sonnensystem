@@ -1,0 +1,20 @@
+#BlueJ package file
+package.editor.height=400
+package.editor.width=560
+package.editor.x=499
+package.editor.y=93
+package.numDependencies=0
+package.numTargets=1
+package.showExtends=true
+package.showUses=true
+target1.editor.height=523
+target1.editor.width=739
+target1.editor.x=123
+target1.editor.y=26
+target1.height=50
+target1.name=Spiel
+target1.showInterface=false
+target1.type=ClassTarget
+target1.width=80
+target1.x=170
+target1.y=130
